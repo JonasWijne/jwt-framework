@@ -62,7 +62,6 @@
         "spomky-labs/aes-key-wrap": "^5.0",
         "spomky-labs/base64url": "^2.0",
         "symfony/config": "^4.2",
-        "symfony/console": "^4.2",
         "symfony/dependency-injection": "^4.2",
         "symfony/framework-bundle": "^4.2",
         "symfony/http-kernel": "^4.2"
